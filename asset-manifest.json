@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pixelperfect/static/css/main.be0252b5.chunk.css",
+    "main.js": "/pixelperfect/static/js/main.fb4e476a.chunk.js",
+    "main.js.map": "/pixelperfect/static/js/main.fb4e476a.chunk.js.map",
+    "runtime-main.js": "/pixelperfect/static/js/runtime-main.05d099c7.js",
+    "runtime-main.js.map": "/pixelperfect/static/js/runtime-main.05d099c7.js.map",
+    "static/js/2.1a538070.chunk.js": "/pixelperfect/static/js/2.1a538070.chunk.js",
+    "static/js/2.1a538070.chunk.js.map": "/pixelperfect/static/js/2.1a538070.chunk.js.map",
+    "static/js/3.ebd94a99.chunk.js": "/pixelperfect/static/js/3.ebd94a99.chunk.js",
+    "static/js/3.ebd94a99.chunk.js.map": "/pixelperfect/static/js/3.ebd94a99.chunk.js.map",
+    "index.html": "/pixelperfect/index.html",
+    "static/css/main.be0252b5.chunk.css.map": "/pixelperfect/static/css/main.be0252b5.chunk.css.map",
+    "static/js/2.1a538070.chunk.js.LICENSE.txt": "/pixelperfect/static/js/2.1a538070.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/pixelperfect/static/media/mobile-background.95c67301.png",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixelperfect/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/pixelperfect/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-person.0a313a85.svg": "/pixelperfect/static/media/icon-person.0a313a85.svg",
+    "static/media/text-background.c380a7d5.jpg": "/pixelperfect/static/media/text-background.c380a7d5.jpg",
+    "static/media/text-top.a996121f.jpg": "/pixelperfect/static/media/text-top.a996121f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d099c7.js",
+    "static/js/2.1a538070.chunk.js",
+    "static/css/main.be0252b5.chunk.css",
+    "static/js/main.fb4e476a.chunk.js"
+  ]
+}
